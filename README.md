@@ -1,1 +1,2 @@
-# Weather-WebApp
+npm install 
+then node "jsfile"
